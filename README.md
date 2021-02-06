@@ -1,5 +1,5 @@
 # THE-SPARK-FOUNDATION 
-TASK 1 Prediction using Supervised ML
+TASK 1 - Prediction using Supervised ML
 
 ● Predict the percentage scored by students based on the number of study hours.
 
